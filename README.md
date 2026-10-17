@@ -8,12 +8,12 @@ My long-term goal is to build technology products and AI-driven businesses from 
 
 > **Think from first principles. Build with precision. Create technology that matters.**
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/utsavadhikari001](https://github.com/utsavadhikari001)">\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>\</a>
-&#x20; \<a href="[https://leetcode.com/u/Utsav_005/](https://leetcode.com/u/Utsav_005/)">\<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode"/>\</a>
-&#x20; \<a href="[https://www.linkedin.com/in/utsavadhikari1/](https://www.linkedin.com/in/utsavadhikari1/)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>\</a>
-&#x20; \<a href="[https://vercel.com/solo-d4f0/utsav-portfolio](https://vercel.com/solo-d4f0/utsav-portfolio)">\<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" alt="Portfolio"/>\</a>
-\</p>
+<p align="left">
+  <a href="https://github.com/utsavadhikari001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Utsav_005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/utsavadhikari1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://vercel.com/solo-d4f0/utsav-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
@@ -32,16 +32,16 @@ I believe the quality of an engineering solution matters more than the number of
 
 I use algorithmic challenges to develop computational thinking, strengthen problem-solving skills, and improve my understanding of data structures and algorithms.
 
-| Difficulty |  Solved |
-| :--------- | ------: |
-| 🟢 Easy    |     201 |
-| 🟡 Medium  |     300 |
-| 🔴 Hard    |     184 |
-| **Total**  | **685** |
+| Difficulty | Problems Solved |
+| :--------- | --------------: |
+| 🟢 Easy    | 201 |
+| 🟡 Medium  | 300 |
+| 🔴 Hard    | 184 |
+| **Total Solved** | **685** |
 
 [**Visit my LeetCode profile →**](https://leetcode.com/u/Utsav_005/)
 
-*Statistics reflect the figures supplied for this README and may change over time.*
+---
 
 ## 🛠️ Technology Stack
 
@@ -173,7 +173,7 @@ My learning spans programming, AI, cloud computing, networking, cybersecurity, a
 
 ### Additional Certificate Verification Links
 
-The following verification URLs also appear in my certificate collection. They are retained here for reference, but I recommend checking each original certificate before assigning a title.
+The following verification URLs are retained for reference. Check each original certificate before assigning a course title.
 
 - [Certificate verification](https://www.mygreatlearning.com/certificate/MOLIVOHK)
 - [Certificate verification](https://www.mygreatlearning.com/certificate/FLNEDWLL)
@@ -187,11 +187,10 @@ The following verification URLs also appear in my certificate collection. They a
 - [Certificate verification](https://www.mygreatlearning.com/certificate/HZIIXSUZ)
 - [Certificate verification](https://www.mygreatlearning.com/certificate/PMTWEJGX)
 - [Certificate verification](https://www.mygreatlearning.com/certificate/CAKVDZJG)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/DEPKBGNY)
 - [Certificate verification](https://www.mygreatlearning.com/certificate/WLBBOYSX)
 - [Certificate verification](https://www.mygreatlearning.com/certificate/QYZRYKFJ)
 
-*My collection also contains coursework in JavaScript, Java, TypeScript, big data, SEO, public speaking, cryptocurrency fundamentals, and other technology topics.*
+*My collection also includes coursework in JavaScript, Java, TypeScript, big data, SEO, public speaking, cryptocurrency fundamentals, and other technology topics.*
 
 ---
 
@@ -220,6 +219,6 @@ I welcome opportunities to learn from experienced engineers, collaborate on mean
 
 ---
 
-\<p align="center">
-&#x20; \<i>Build deliberately. Learn continuously. Think beyond the obvious.\</i>
-\</p>
+<p align="center">
+  <i>Build deliberately. Learn continuously. Think beyond the obvious.</i>
+</p>
