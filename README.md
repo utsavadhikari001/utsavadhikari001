@@ -1,4 +1,5 @@
 # ⚡ Utsav Adhikari
+
 ### AI Entrepreneur in the Making · Independent Builder · Software Engineer
 
 I build software, explore intelligent automation, and work on projects at the intersection of **artificial intelligence, software engineering, and computational systems**.
@@ -7,12 +8,12 @@ My long-term goal is to build technology products and AI-driven businesses from 
 
 > **Think from first principles. Build with precision. Create technology that matters.**
 
-<p align="left">
-  <a href="https://github.com/utsavadhikari001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/Utsav_005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.linkedin.com/in/utsavadhikari1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://vercel.com/solo-d4f0/utsav-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+\<p align="left">
+&#x20; \<a href="[https://github.com/utsavadhikari001](https://github.com/utsavadhikari001)">\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>\</a>
+&#x20; \<a href="[https://leetcode.com/u/Utsav_005/](https://leetcode.com/u/Utsav_005/)">\<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode"/>\</a>
+&#x20; \<a href="[https://www.linkedin.com/in/utsavadhikari1/](https://www.linkedin.com/in/utsavadhikari1/)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>\</a>
+&#x20; \<a href="[https://vercel.com/solo-d4f0/utsav-portfolio](https://vercel.com/solo-d4f0/utsav-portfolio)">\<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" alt="Portfolio"/>\</a>
+\</p>
 
 ---
 
@@ -31,12 +32,12 @@ I believe the quality of an engineering solution matters more than the number of
 
 I use algorithmic challenges to develop computational thinking, strengthen problem-solving skills, and improve my understanding of data structures and algorithms.
 
-| Difficulty | Solved | Total |
-|:--|--:|--:|
-| 🟢 Easy | 201 | 971 |
-| 🟡 Medium | 300 | 2,128 |
-| 🔴 Hard | 184 | 983 |
-| **Total** | **685** | **4,082** |
+| Difficulty |  Solved |
+| :--------- | ------: |
+| 🟢 Easy    |     201 |
+| 🟡 Medium  |     300 |
+| 🔴 Hard    |     184 |
+| **Total**  | **685** |
 
 [**Visit my LeetCode profile →**](https://leetcode.com/u/Utsav_005/)
 
@@ -45,6 +46,7 @@ I use algorithmic challenges to develop computational thinking, strengthen probl
 ## 🛠️ Technology Stack
 
 ### Artificial Intelligence
+
 - Large language model (LLM) applications
 - Prompt engineering and structured prompt design
 - AI agents and workflow automation
@@ -54,6 +56,7 @@ I use algorithmic challenges to develop computational thinking, strengthen probl
 - Machine learning and computer vision fundamentals
 
 ### Programming & Software Engineering
+
 - **Python** — scripting, application development, and computational logic
 - **C++** — algorithms, data structures, and performance-oriented programming
 - **Java** — object-oriented programming and application development
@@ -63,6 +66,7 @@ I use algorithmic challenges to develop computational thinking, strengthen probl
 - **.NET** — foundational concepts
 
 ### Cloud & Infrastructure
+
 - Amazon Web Services (AWS)
 - Microsoft Azure
 - Google Cloud
@@ -71,6 +75,7 @@ I use algorithmic challenges to develop computational thinking, strengthen probl
 - Git and GitHub
 
 ### Networking & Security
+
 - Cisco CCNA 200-301 networking fundamentals
 - Network architecture and troubleshooting
 - Digital security fundamentals
@@ -89,6 +94,7 @@ I use algorithmic challenges to develop computational thinking, strengthen probl
 An exploration of game development through custom rendering, mathematical transformations, and perspective calculations without relying on a conventional 3D game engine.
 
 **Technical focus**
+
 - Vector calculations and coordinate transformations
 - Perspective projection and pseudo-3D rendering
 - Game-loop implementation and rendering logic
@@ -104,6 +110,7 @@ An exploration of game development through custom rendering, mathematical transf
 Student RideMatch is designed to connect students traveling along similar routes at similar times.
 
 **Core features**
+
 - Ride seeker and ride provider roles
 - Ride posting and ride search
 - Route and time comparisons
@@ -213,6 +220,6 @@ I welcome opportunities to learn from experienced engineers, collaborate on mean
 
 ---
 
-<p align="center">
-  <i>Build deliberately. Learn continuously. Think beyond the obvious.</i>
-</p>
+\<p align="center">
+&#x20; \<i>Build deliberately. Learn continuously. Think beyond the obvious.\</i>
+\</p>
