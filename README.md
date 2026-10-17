@@ -103,94 +103,71 @@ An exploration of game development through custom rendering, mathematical transf
 
 [**Explore NEO-RACING-GAME →**](https://github.com/utsavadhikari001/NEO-RACING-GAME)
 
-### 🧑‍🎓 Student RideMatch
 
-**A college-focused ride-matching application concept.**
-
-Student RideMatch is designed to connect students traveling along similar routes at similar times.
-
-**Core features**
-
-- Ride seeker and ride provider roles
-- Ride posting and ride search
-- Route and time comparisons
-- Ride requests and user dashboards
-- Backend and database integration
-
-[**Explore my GitHub repositories →**](https://github.com/utsavadhikari001?tab=repositories)
-
-*Descriptions summarize project goals and technical focus; refer to each repository for its current implementation and deployment status.*
-
----
 
 ## 🎓 Certificates & Professional Learning
 
 My learning spans programming, AI, cloud computing, networking, cybersecurity, analytics, and web development.
 
-### Programming & AI
+### Programming, AI & Algorithms
 
-- [Advanced Python](https://www.mygreatlearning.com/certificate/OSPXQVYS)
-- [Advanced C++ Course](https://www.mygreatlearning.com/certificate/FCSQSFAJ)
 - [Natural Language Processing (NLP) and Text Mining Tutorial for Beginners](https://www.mygreatlearning.com/certificate/OSPXQVYS)
-- [Hugging Face Projects](https://www.mygreatlearning.com/certificate/URPQFJID)
-- [Machine Learning Pipelines with Azure ML Studio](https://coursera.org/verify/MWBQYF1CVSXV)
-- [Build a Computer Vision App with Azure Cognitive Services](https://coursera.org/verify/SZS6MM1EQWXR)
-- [Building a Generative AI-Ready Organization](https://www.mygreatlearning.com/certificate/OSPXQVYS)
-- [Responsible AI: Applying AI Principles with Google Cloud](https://www.mygreatlearning.com/certificate/OSPXQVYS)
-- [Mastering TensorFlow: From Beginner to Expert](https://www.mygreatlearning.com/certificate/QYZRYKFJ)
+- [Learn Advanced C++ Course Online](https://www.mygreatlearning.com/certificate/FCSQSFAJ)
+- [TensorFlow Python](https://www.mygreatlearning.com/certificate/QYZRYKFJ)
+- [Python Libraries for Machine Learning](https://www.mygreatlearning.com/certificate/QTDKUUGG)
+- [Dynamic Programming](https://www.mygreatlearning.com/certificate/DXDLPSPE)
+- [Linear Programming for Data Science](https://www.mygreatlearning.com/certificate/JXJULPDZ)
+- [Autocorrelation in Data Science](https://www.mygreatlearning.com/certificate/BLXPDHGF)
 - [Introduction to OpenCV for Beginners](https://www.mygreatlearning.com/certificate/DEPKBGNY)
 
-### Cloud & Networking
+### Cloud & Infrastructure
 
 - [Azure Fundamentals](https://www.mygreatlearning.com/certificate/OETXRDZI)
 - [Scaling with Google Cloud Operations](https://www.mygreatlearning.com/certificate/TRFLPHDK)
 - [Amazon FSx for Lustre Primer](https://www.mygreatlearning.com/certificate/DNXJEJLG)
-- [Learn CCNA 200-301 Network Fundamentals](https://www.mygreatlearning.com/certificate/DMOSVRMU)
+- [AWS CI/CD Pipeline Tutorial](https://www.mygreatlearning.com/certificate/DMOSVRMU)
+- [Cloud Computing Foundations](https://www.mygreatlearning.com/certificate/DEPKBGNY)
+- [Cloud Foundations](https://www.mygreatlearning.com/certificate/DKPOLTYF)
+- [Cloud Foundations – Advanced](https://www.mygreatlearning.com/certificate/WLBBOYSX)
+
+### Cybersecurity
+
+- [Ethical Hacking – Mobile Platforms and Network Architecture](https://www.mygreatlearning.com/certificate/FLNEDWLL)
+- [Cyber Security Threats](https://www.mygreatlearning.com/certificate/CIOQFSNH)
+- [Cyber Security for Leadership](https://www.mygreatlearning.com/certificate/FXYBGRHG)
+- [Digital Security Fundamentals](https://www.mygreatlearning.com/certificate/7410317)
 - [Trust and Security with Google Cloud](https://www.mygreatlearning.com/certificate/7410541)
+
+### Generative AI & Productivity
+
+- [ChatGPT for Business Communication](https://www.mygreatlearning.com/certificate/HZIIXSUZ)
+- [ChatGPT for Coders](https://www.mygreatlearning.com/certificate/PMTWEJGX)
 - [Innovating with Google Cloud AI](https://www.mygreatlearning.com/certificate/7485415)
+- [Building a Generative AI-Ready Organization](https://www.mygreatlearning.com/certificate/OSPXQVYS)
+- [Responsible AI: Applying AI Principles with Google Cloud](https://www.mygreatlearning.com/certificate/OSPXQVYS)
 
-### Web & Software Development
+### Data Analytics & Visualization
 
-- [Free Full Stack Developer Course](https://www.mygreatlearning.com/certificate/9166430)
-- [Getting Started with Full Stack Java Development](https://www.mygreatlearning.com/certificate/EATNQMOM)
-- [Build a Full Website Using WordPress](https://coursera.org/verify/CFX9UQD0YYMU)
-- [Build a Website Using Wix Artificial Design Intelligence](https://coursera.org/verify/RKTUW3VKV43R)
-- [Introduction to jQuery](https://www.mygreatlearning.com/certificate/XOOWWSHK)
-- [TypeScript: The New JavaScript for Web Development](https://www.mygreatlearning.com/certificate/QYZRYKFJ)
-
-### Data, Analytics & Other Learning
-
-- [Python for Beginners](https://www.mygreatlearning.com/certificate/HMRTBMYS)
-- [Machine Learning](https://www.mygreatlearning.com/certificate/URPQFJID)
-- [ChatGPT Advanced Course](https://www.mygreatlearning.com/certificate/7409901)
-- [ChatGPT for Data Analytics](https://www.mygreatlearning.com/certificate/7356455)
+- [Data Visualization with Power BI](https://www.mygreatlearning.com/certificate/MOLIVOHK)
+- [Data Visualization Using Tableau](https://www.mygreatlearning.com/certificate/TNROFDLS)
+- [Basics of Python Data Wrangling](https://www.mygreatlearning.com/certificate/CAKVDZJG)
 - [Power BI for Beginners](https://www.mygreatlearning.com/certificate/6956781)
 - [Introduction to Data Visualization](https://www.mygreatlearning.com/certificate/7370254)
 - [Business Analytics with Excel](https://www.mygreatlearning.com/certificate/8544852)
-- [Basic Introduction to Linux](https://www.mygreatlearning.com/certificate/5040251)
-- [Digital Security Fundamentals](https://www.mygreatlearning.com/certificate/7410317)
+
+### Web & Software Development
+
+- [Getting Started with Full Stack Java Development](https://www.mygreatlearning.com/certificate/EATNQMOM)
+- [Free Full Stack Developer Course](https://www.mygreatlearning.com/certificate/9166430)
+- [Build a Full Website Using WordPress](https://coursera.org/verify/CFX9UQD0YYMU)
+- [Machine Learning Pipelines with Azure ML Studio](https://coursera.org/verify/MWBQYF1CVSXV)
+- [Build a Computer Vision App with Azure Cognitive Services](https://coursera.org/verify/SZS6MM1EQWXR)
+- [Build a Website Using Wix Artificial Design Intelligence](https://coursera.org/verify/RKTUW3VKV43R)
 - [Hootsuite Platform Training](https://www.mygreatlearning.com/certificate/XOOWWSHK)
 
-### Additional Certificate Verification Links
+### Additional Learning
 
-The following verification URLs are retained for reference. Check each original certificate before assigning a course title.
-
-- [Certificate verification](https://www.mygreatlearning.com/certificate/MOLIVOHK)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/FLNEDWLL)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/JXJULPDZ)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/BLXPDHGF)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/TNROFDLS)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/CIOQFSNH)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/FXYBGRHG)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/DKPOLTYF)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/DXDLPSPE)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/HZIIXSUZ)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/PMTWEJGX)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/CAKVDZJG)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/WLBBOYSX)
-- [Certificate verification](https://www.mygreatlearning.com/certificate/QYZRYKFJ)
-
-*My collection also includes coursework in JavaScript, Java, TypeScript, big data, SEO, public speaking, cryptocurrency fundamentals, and other technology topics.*
+Other completed coursework includes Advanced Python, Hugging Face Projects, CCNA 200-301 Network Fundamentals, Machine Learning, Python for Beginners, JavaScript, TypeScript, Linux, Big Data, SEO, public speaking, cryptocurrency fundamentals, and more.
 
 ---
 
